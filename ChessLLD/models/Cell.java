@@ -1,4 +1,4 @@
-package Models;
+package ChessLLD.models;
 
 public class Cell {
     int positionX;
